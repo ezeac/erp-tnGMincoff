@@ -1,0 +1,299 @@
+
+
+--------------------------------------------
+2018-08-29 22:10
+Se actualiza producto sku: BOTS-015: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26828233)
+  [1]=>
+  int(65753607)
+  [2]=>
+  float(5248)
+  [3]=>
+  float(2)
+}
+
+Se actualiza producto sku: BOTS-015: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26828233)
+  [1]=>
+  int(65753608)
+  [2]=>
+  float(5248)
+  [3]=>
+  float(2)
+}
+
+Se actualiza producto sku: SCF332/01: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26882242)
+  [1]=>
+  int(62856495)
+  [2]=>
+  float(5788)
+  [3]=>
+  float(2)
+}
+
+Se actualiza producto sku: SCF330/19: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26882460)
+  [1]=>
+  int(62857226)
+  [2]=>
+  float(3282)
+  [3]=>
+  float(2)
+}
+
+Se actualiza producto sku: BOTS-011: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26886990)
+  [1]=>
+  int(62872030)
+  [2]=>
+  float(6480)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: BOCU-003: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26902265)
+  [1]=>
+  int(62921699)
+  [2]=>
+  float(4060)
+  [3]=>
+  float(2)
+}
+
+Se actualiza producto sku: BOCU-003: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26902265)
+  [1]=>
+  int(62921700)
+  [2]=>
+  float(4060)
+  [3]=>
+  float(2)
+}
+
+Se actualiza producto sku: BOTS-019: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26903732)
+  [1]=>
+  int(66986293)
+  [2]=>
+  float(6886)
+  [3]=>
+  float(2)
+}
+
+Se actualiza producto sku: BOTS-019: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26903732)
+  [1]=>
+  int(66986294)
+  [2]=>
+  float(6886)
+  [3]=>
+  float(2)
+}
+
+Se actualiza producto sku: BS-06N: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26904450)
+  [1]=>
+  int(62924388)
+  [2]=>
+  float(5749)
+  [3]=>
+  float(1)
+}
+
+No se obtienen datos en el ERP para el sku: MUZE BLACK. Detalle curl - 
+NULL
+
+NULL
+Se actualiza producto sku: KR5230: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26914880)
+  [1]=>
+  int(62948471)
+  [2]=>
+  float(9225)
+  [3]=>
+  float(2)
+}
+
+Se actualiza producto sku: KR5230: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26914880)
+  [1]=>
+  int(65632552)
+  [2]=>
+  float(9225)
+  [3]=>
+  float(2)
+}
+
+No se obtienen datos en el ERP para el sku: KR0750+WK. Detalle curl - 
+array(9) {
+  ["Articulos"]=>
+  array(3) {
+    ["Items"]=>
+    array(0) {
+    }
+    ["CantidadTotalItems"]=>
+    int(0)
+    ["Pagina"]=>
+    array(2) {
+      ["Numero"]=>
+      int(1)
+      ["CantidadItems"]=>
+      int(1)
+    }
+  }
+  ["PrecioMinimo"]=>
+  float(0)
+  ["PrecioMaximo"]=>
+  float(0)
+  ["RubrosCantidadItems"]=>
+  array(0) {
+  }
+  ["SubRubrosCantidadItems"]=>
+  array(0) {
+  }
+  ["CategoriasArticuloCantidadItems"]=>
+  array(0) {
+  }
+  ["SociedadesArticuloCantidadItems"]=>
+  array(0) {
+  }
+  ["MarcasArticuloCantidadItems"]=>
+  array(0) {
+  }
+  ["AtributosArticuloCantidadItems"]=>
+  array(0) {
+  }
+}
+
+array(3) {
+  ["Items"]=>
+  array(0) {
+  }
+  ["CantidadTotalItems"]=>
+  int(0)
+  ["Pagina"]=>
+  NULL
+}
+Se actualiza producto sku: KP5115R: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26916098)
+  [1]=>
+  int(66931873)
+  [2]=>
+  float(3860)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: KP5115K: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26916098)
+  [1]=>
+  int(66931874)
+  [2]=>
+  float(3860)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: BOCT-007: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26916414)
+  [1]=>
+  int(62953558)
+  [2]=>
+  float(4280)
+  [3]=>
+  float(3)
+}
+
+Se actualiza producto sku: BOCU-009: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26916958)
+  [1]=>
+  int(65632360)
+  [2]=>
+  float(4437)
+  [3]=>
+  float(2)
+}
+
+Se actualiza producto sku: BOCU-009: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26916958)
+  [1]=>
+  int(65632361)
+  [2]=>
+  float(4437)
+  [3]=>
+  float(2)
+}
+
+Se actualiza producto sku: KS1029: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26917912)
+  [1]=>
+  int(62957879)
+  [2]=>
+  float(7798)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: BS-08B: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26918093)
+  [1]=>
+  int(62958341)
+  [2]=>
+  float(6489)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: BOCA-004: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26918762)
+  [1]=>
+  int(62960496)
+  [2]=>
+  float(3176)
+  [3]=>
+  float(1)
+}
+
+
