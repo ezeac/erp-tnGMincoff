@@ -27,6 +27,7 @@ function get_product_erp($sku) {
     $error = curl_error($curl);
     if ($error != "") { echo "Error curl1: ".$error; }
     sleep(1);
+
     $endpoint2 = "ArticulosSucursalesFisicas?stockComprometidoPorSucursalFisica=true&idsSucursalesFisicas=8361&codigoExacto=";
     $curl2 = curl_init();
     curl_setopt_array($curl2, array(
@@ -46,8 +47,7 @@ function get_product_erp($sku) {
     if ($error2 != "") { echo "Error curl2: ".$error2; }
     sleep(1);
 
-
-    if (isset($response["Articulos"]["Items"][0])) {
+    if (isset($response["Articulos"]["Items"][0]) && isset($response2["Items"][0])) {
         $Codigo = $response["Articulos"]["Items"][0]["Codigo"];
         $Precio = $response["Articulos"]["Items"][0]["Precio"];
         $ExistenciasTotal = $response2["Items"][0]["Existencias"];
@@ -67,13 +67,13 @@ function update_product($id, $id_sku, $price, $stock) {
     curl_setopt_array($curl, array(
         CURLOPT_URL => "https://api.tiendanube.com/v1/808724/products/".$id."/variants/".$id_sku,
         CURLOPT_RETURNTRANSFER => true,
-        CURLOPT_TIMEOUT => 30,
+        CURLOPT_TIMEOUT => 120,
         CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
         CURLOPT_CUSTOMREQUEST => "PUT",
         CURLOPT_POSTFIELDS => json_encode($data), 
         CURLOPT_HTTPHEADER => array(
             "Authentication: bearer f65d278761a83bdf2e5887200f51f6373030ee39 ",
-            "User-Agent: App IntegraciÃ³n ERP (ezequielcrosa@diezweb.com.ar)",
+            "User-Agent: App ERP-TiendaNube (ezequielcrosa@diezweb.com.ar)",
             "Content-Type: application/json"
         ),
     ));
@@ -83,58 +83,68 @@ function update_product($id, $id_sku, $price, $stock) {
     $err = curl_error($curl);
 }
 
+$text_mail = "<br><b>----------------------------------------------------------------------------------------<br>Fecha del proceso: ".date("d")." del ".date("m")." de ".date("Y \a\ \l\a\s\ H:i\h\s\.")."<br>----------------------------------------------------------------------------------------</b><br><br>";
+echo "\n\r\n\r--------------------------------------------\n\r".date("Y-m-d H:i")."\n\r";
 
-$curl = curl_init();
-curl_setopt_array($curl, array(
-    CURLOPT_URL => "https://api.tiendanube.com/v1/808724/products",
-    CURLOPT_RETURNTRANSFER => true,
-    CURLOPT_TIMEOUT => 30,
-    CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
-    CURLOPT_CUSTOMREQUEST => "GET",
-    CURLOPT_HTTPHEADER => array(
-        "Authentication: bearer f65d278761a83bdf2e5887200f51f6373030ee39 ",
-        "User-Agent: App IntegraciÃ³n ERP (ezequielcrosa@diezweb.com.ar)",
-        "Content-Type: application/json"
-    ),
-));
+$page = 1;
+do {
+    $curl = curl_init();
+    curl_setopt_array($curl, array(
+        CURLOPT_URL => "https://api.tiendanube.com/v1/808724/products?page=".$page,
+        CURLOPT_RETURNTRANSFER => true,
+        CURLOPT_TIMEOUT => 120,
+        CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
+        CURLOPT_CUSTOMREQUEST => "GET",
+        CURLOPT_HTTPHEADER => array(
+            "Authentication: bearer f65d278761a83bdf2e5887200f51f6373030ee39 ",
+            "User-Agent: App ERP-TiendaNube (ezequielcrosa@diezweb.com.ar)",
+            "Content-Type: application/json"
+        ),
+    ));
 
-$response_tn= json_decode(curl_exec($curl),true);
-$err = curl_error($curl);
+    $response_tn= json_decode(curl_exec($curl),true);
+    $err = curl_error($curl);
 
-$text_mail = "--------------------------------------------".date("Y-m-d H:i")."\n\r<br>";
+    if (!isset($response_tn["code"])) {
+        for ($i=0; $i < count($response_tn); $i++) { 
+            $id = $response_tn[$i]["id"];
+            for ($f=0; $f < count($response_tn[$i]["variants"]); $f++) { 
+                $sku = $response_tn[$i]["variants"][$f]["sku"];
+                $id_sku = $response_tn[$i]["variants"][$f]["id"];
+                
+                if ($sku == "" || $sku == 'undefined') { continue; }
 
-echo "\n\r\n\r--------------------------------------------\n\r";
-echo date("Y-m-d H:i")."\n\r";
+                $result_erp = get_product_erp($sku);
 
-for ($i=0; $i < count($response_tn); $i++) { 
-    $id = $response_tn[$i]["id"];
-    for ($f=0; $f < count($response_tn[$i]["variants"]); $f++) { 
-        $sku = $response_tn[$i]["variants"][$f]["sku"];
-        $id_sku = $response_tn[$i]["variants"][$f]["id"];
-        
-        $result_erp = get_product_erp($sku);
-        sleep(1);
-
-        if ($result_erp[3] != NULL && $result_erp[1] != NULL && $result_erp[1] != false) {
-            update_product($id, $id_sku, $result_erp[2], $result_erp[3]);
-            $text_mail .= "Se actualiza producto sku: ".$sku." con los siguientes datos:<br>Precio: ".$result_erp[2].", stock: ".$result_erp[3]."<br><br>";
-            echo "Se actualiza producto sku: ".$sku.": (id, id_sku, result2, result3)\n\r";
-            var_dump(array($id, $id_sku, $result_erp[2], $result_erp[3]));
-            echo "\n\r";
-        } else if ($result_erp[1] == false) {
-            echo "No se obtienen datos en el ERP para el sku: ".$sku.". Detalle curl".$result_erp[0]."\n\r";
-            var_dump($result_erp[2]);
-            echo "\n\r";
-            var_dump($result_erp[3]);
-            $text_mail .= "No se encuentra el precio o el stock en el ERP para el sku: ".$sku."<br>";
+                if ($result_erp[3] != NULL && $result_erp[1] != NULL && $result_erp[1] != false) {
+                    update_product($id, $id_sku, $result_erp[2], $result_erp[3]);
+                    $text_mail .= "Se actualiza producto sku: ".$sku." con los siguientes datos:<br>Precio: ".$result_erp[2].", stock: ".$result_erp[3]."<br><br>";
+                    echo "Se actualiza producto sku: ".$sku.": (id, id_sku, result2, result3)\n\r";
+                    var_dump(array($id, $id_sku, $result_erp[2], $result_erp[3]));
+                    echo "\n\r";
+                } else if ($result_erp[1] == false) {
+                    echo "No se obtienen datos en el ERP para el sku: ".$sku.". Detalle curl".$result_erp[0]."\n\r";
+                    var_dump($result_erp[2]);
+                    var_dump($result_erp[3]);
+                    echo "\n\r";
+                    $text_mail .= "<b>No se obtuvieron datos en el ERP para el sku: ".$sku."</b><br><br>";
+                }
+            }
         }
     }
-}
-$to = "ezequielcrosa@diezweb.com.ar,gastonmincoff@gmail.com";
+    $page++;
+} while (!isset($response_tn["code"]));
+
+$to = "gastonmincoff@gmail.com";
 $subject = "Resultado Proceso ERP-TiendaNube";
 
 $headers = "MIME-Version: 1.0" . "\r\n";
 $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
+$headers .= "CCO: ezequielcrosa@diezweb.com.ar" . "\r\n";
 
 mail($to,$subject,$text_mail,$headers);
+
+// $arch = fopen("./test.test", "w+");
+// fwrite($arch, $text_mail);
+// fclose($arch);
 ?>

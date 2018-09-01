@@ -1,0 +1,1617 @@
+
+
+--------------------------------------------
+2018-09-01 11:22
+Se actualiza producto sku: BOTS-015: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26828233)
+  [1]=>
+  int(65753607)
+  [2]=>
+  float(5248)
+  [3]=>
+  float(2)
+}
+
+Se actualiza producto sku: BOTS-015: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26828233)
+  [1]=>
+  int(65753608)
+  [2]=>
+  float(5248)
+  [3]=>
+  float(2)
+}
+
+Se actualiza producto sku: SCF690/17: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26878747)
+  [1]=>
+  int(62846932)
+  [2]=>
+  float(588)
+  [3]=>
+  float(2)
+}
+
+Se actualiza producto sku: SCF693/17: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26881101)
+  [1]=>
+  int(62852813)
+  [2]=>
+  float(678)
+  [3]=>
+  float(2)
+}
+
+Se actualiza producto sku: SCF332/01: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26882242)
+  [1]=>
+  int(62856495)
+  [2]=>
+  float(5788)
+  [3]=>
+  float(2)
+}
+
+Se actualiza producto sku: SCF330/19: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26882460)
+  [1]=>
+  int(62857226)
+  [2]=>
+  float(3282)
+  [3]=>
+  float(2)
+}
+
+Se actualiza producto sku: SCF371/19: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26882639)
+  [1]=>
+  int(62857760)
+  [2]=>
+  float(2054)
+  [3]=>
+  float(2)
+}
+
+Se actualiza producto sku: BOTS-011: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26886990)
+  [1]=>
+  int(62872030)
+  [2]=>
+  float(6688)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: BOCU-003: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26902265)
+  [1]=>
+  int(62921699)
+  [2]=>
+  float(4060)
+  [3]=>
+  float(2)
+}
+
+Se actualiza producto sku: BOCU-003: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26902265)
+  [1]=>
+  int(62921700)
+  [2]=>
+  float(4060)
+  [3]=>
+  float(2)
+}
+
+Se actualiza producto sku: BS-06N: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26904450)
+  [1]=>
+  int(62924388)
+  [2]=>
+  float(5749)
+  [3]=>
+  float(1)
+}
+
+No se obtienen datos en el ERP para el sku: MUZE BLACK. Detalle curl - 
+NULL
+NULL
+
+Se actualiza producto sku: KR5230: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26914880)
+  [1]=>
+  int(62948471)
+  [2]=>
+  float(9225)
+  [3]=>
+  float(2)
+}
+
+Se actualiza producto sku: KR5230: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26914880)
+  [1]=>
+  int(65632552)
+  [2]=>
+  float(9225)
+  [3]=>
+  float(2)
+}
+
+No se obtienen datos en el ERP para el sku: KR0750+WK. Detalle curl - 
+array(9) {
+  ["Articulos"]=>
+  array(3) {
+    ["Items"]=>
+    array(0) {
+    }
+    ["CantidadTotalItems"]=>
+    int(0)
+    ["Pagina"]=>
+    array(2) {
+      ["Numero"]=>
+      int(1)
+      ["CantidadItems"]=>
+      int(1)
+    }
+  }
+  ["PrecioMinimo"]=>
+  float(0)
+  ["PrecioMaximo"]=>
+  float(0)
+  ["RubrosCantidadItems"]=>
+  array(0) {
+  }
+  ["SubRubrosCantidadItems"]=>
+  array(0) {
+  }
+  ["CategoriasArticuloCantidadItems"]=>
+  array(0) {
+  }
+  ["SociedadesArticuloCantidadItems"]=>
+  array(0) {
+  }
+  ["MarcasArticuloCantidadItems"]=>
+  array(0) {
+  }
+  ["AtributosArticuloCantidadItems"]=>
+  array(0) {
+  }
+}
+array(3) {
+  ["Items"]=>
+  array(0) {
+  }
+  ["CantidadTotalItems"]=>
+  int(0)
+  ["Pagina"]=>
+  NULL
+}
+
+Se actualiza producto sku: BOCT-007: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26916414)
+  [1]=>
+  int(62953558)
+  [2]=>
+  float(4280)
+  [3]=>
+  float(3)
+}
+
+Se actualiza producto sku: BOCU-009: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26916958)
+  [1]=>
+  int(65632360)
+  [2]=>
+  float(4437)
+  [3]=>
+  float(2)
+}
+
+Se actualiza producto sku: BOCU-009: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26916958)
+  [1]=>
+  int(65632361)
+  [2]=>
+  float(4437)
+  [3]=>
+  float(2)
+}
+
+Se actualiza producto sku: KS1029: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26917912)
+  [1]=>
+  int(62957879)
+  [2]=>
+  float(7798)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: BS-08B: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26918093)
+  [1]=>
+  int(62958341)
+  [2]=>
+  float(6489)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: BOCA-004: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26918762)
+  [1]=>
+  int(62960496)
+  [2]=>
+  float(3176)
+  [3]=>
+  float(1)
+}
+
+No se obtienen datos en el ERP para el sku: ZEUS BLACK. Detalle curl - 
+NULL
+NULL
+
+Se actualiza producto sku: R902AGREY: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26919665)
+  [1]=>
+  int(62962799)
+  [2]=>
+  float(1610)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: LB-589: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26920110)
+  [1]=>
+  int(62963886)
+  [2]=>
+  float(7880)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: BOCH-001: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26920192)
+  [1]=>
+  int(62964127)
+  [2]=>
+  float(5880)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: BOUL-003: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26920351)
+  [1]=>
+  int(62964490)
+  [2]=>
+  float(4988)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: BOLR-002: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26920695)
+  [1]=>
+  int(62965411)
+  [2]=>
+  float(3735)
+  [3]=>
+  float(2)
+}
+
+Se actualiza producto sku: BOLR-002: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26920695)
+  [1]=>
+  int(65933181)
+  [2]=>
+  float(3735)
+  [3]=>
+  float(2)
+}
+
+Se actualiza producto sku: BOPA-010: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26921013)
+  [1]=>
+  int(62966079)
+  [2]=>
+  float(3580)
+  [3]=>
+  float(2)
+}
+
+Se actualiza producto sku: BOPA-010: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26921013)
+  [1]=>
+  int(62966080)
+  [2]=>
+  float(3580)
+  [3]=>
+  float(2)
+}
+
+Se actualiza producto sku: BOTS-016: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26921154)
+  [1]=>
+  int(65653778)
+  [2]=>
+  float(7144)
+  [3]=>
+  float(2)
+}
+
+Se actualiza producto sku: BOTS-016: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26921154)
+  [1]=>
+  int(65653779)
+  [2]=>
+  float(7144)
+  [3]=>
+  float(2)
+}
+
+Se actualiza producto sku: BOPA-009: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26921282)
+  [1]=>
+  int(62966636)
+  [2]=>
+  float(2492)
+  [3]=>
+  float(2)
+}
+
+Se actualiza producto sku: 100709STS: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26921569)
+  [1]=>
+  int(62967132)
+  [2]=>
+  float(2640)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: KR0740: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26921731)
+  [1]=>
+  int(62967359)
+  [2]=>
+  float(4253)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: BOCU-015: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26922477)
+  [1]=>
+  int(66988134)
+  [2]=>
+  float(5698)
+  [3]=>
+  float(2)
+}
+
+Se actualiza producto sku: BOCU-015: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26922477)
+  [1]=>
+  int(66988135)
+  [2]=>
+  float(5698)
+  [3]=>
+  float(2)
+}
+
+Se actualiza producto sku: BOSI-016B: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26939233)
+  [1]=>
+  int(63006651)
+  [2]=>
+  float(4833)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: BOSI-016A: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26939331)
+  [1]=>
+  int(63006840)
+  [2]=>
+  float(4397)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: BOSI-012: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26939700)
+  [1]=>
+  int(63007619)
+  [2]=>
+  float(1808)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: BOAN-002: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26953373)
+  [1]=>
+  int(63040764)
+  [2]=>
+  float(2199)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: BOAN-003: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26953504)
+  [1]=>
+  int(63040991)
+  [2]=>
+  float(2366)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: BG02NEGRO: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26953897)
+  [1]=>
+  int(63041848)
+  [2]=>
+  float(2880)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: 4E02LJG: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26954203)
+  [1]=>
+  int(63042619)
+  [2]=>
+  float(2758)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: KCP1679R: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26954315)
+  [1]=>
+  int(63042874)
+  [2]=>
+  float(7880)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: HR240C: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26954503)
+  [1]=>
+  int(63043285)
+  [2]=>
+  float(2629)
+  [3]=>
+  float(2)
+}
+
+Se actualiza producto sku: BOAN-083W: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26982420)
+  [1]=>
+  int(63111932)
+  [2]=>
+  float(2694)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: SPIDERPOTTY: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26983564)
+  [1]=>
+  int(63114104)
+  [2]=>
+  float(619)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: 7980: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26983579)
+  [1]=>
+  int(65632055)
+  [2]=>
+  float(0)
+  [3]=>
+  float(3)
+}
+
+Se actualiza producto sku: HR210C: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26983585)
+  [1]=>
+  int(63114150)
+  [2]=>
+  float(2633)
+  [3]=>
+  float(4)
+}
+
+Se actualiza producto sku: HR280C: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(26983593)
+  [1]=>
+  int(63114173)
+  [2]=>
+  float(2853)
+  [3]=>
+  float(2)
+}
+
+No se obtienen datos en el ERP para el sku: RIPAR RED. Detalle curl - 
+NULL
+NULL
+
+Se actualiza producto sku: BOAN-053W: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(27916844)
+  [1]=>
+  int(65934930)
+  [2]=>
+  float(2788)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: 0184477: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(28175003)
+  [1]=>
+  int(66689311)
+  [2]=>
+  float(1766)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: 80166122: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(28175188)
+  [1]=>
+  int(66689792)
+  [2]=>
+  float(1952)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: 80186122: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(28175352)
+  [1]=>
+  int(66690213)
+  [2]=>
+  float(1888)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: TB8597: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(28187086)
+  [1]=>
+  int(66728861)
+  [2]=>
+  float(1586)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: 722: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(28187244)
+  [1]=>
+  int(66729393)
+  [2]=>
+  float(199)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: 0185827: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(28187313)
+  [1]=>
+  int(66729587)
+  [2]=>
+  float(3938)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: 866: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(28187366)
+  [1]=>
+  int(66729745)
+  [2]=>
+  float(0)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: 864: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(28187546)
+  [1]=>
+  int(66730338)
+  [2]=>
+  float(540)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: 863: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(28187649)
+  [1]=>
+  int(66730803)
+  [2]=>
+  float(784)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: 828: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(28188233)
+  [1]=>
+  int(66733083)
+  [2]=>
+  float(0)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: TB1775: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(28188266)
+  [1]=>
+  int(66733244)
+  [2]=>
+  float(1258)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: 80502622: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(28188294)
+  [1]=>
+  int(66733319)
+  [2]=>
+  float(1764)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: 00080711000370: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(28333715)
+  [1]=>
+  int(67218116)
+  [2]=>
+  float(389)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: 00080737000370: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(28333752)
+  [1]=>
+  int(67218253)
+  [2]=>
+  float(499)
+  [3]=>
+  float(1)
+}
+
+No se obtienen datos en el ERP para el sku: 409. Detalle curl - 
+array(9) {
+  ["Articulos"]=>
+  array(3) {
+    ["Items"]=>
+    array(1) {
+      [0]=>
+      array(60) {
+        ["IdArticulo"]=>
+        int(9603)
+        ["Codigo"]=>
+        string(7) "LC24093"
+        ["CodigoAuxiliar"]=>
+        string(7) "LC24093"
+        ["Nombre"]=>
+        string(22) "AMIGUITOS P/GIRAR POOH"
+        ["NombreFantasia"]=>
+        string(0) ""
+        ["Rubro"]=>
+        array(3) {
+          ["IdRubro"]=>
+          int(14)
+          ["Codigo"]=>
+          string(2) "14"
+          ["Nombre"]=>
+          string(8) "JUGUETES"
+        }
+        ["SubRubro"]=>
+        array(3) {
+          ["IdSubRubro"]=>
+          int(41)
+          ["Codigo"]=>
+          string(2) "10"
+          ["Nombre"]=>
+          string(14) "OTROS JUGUETES"
+        }
+        ["CategoriaArticulo"]=>
+        NULL
+        ["SociedadArticulo"]=>
+        array(3) {
+          ["IdSociedadArticulo"]=>
+          int(1)
+          ["Codigo"]=>
+          string(2) "01"
+          ["Nombre"]=>
+          string(29) "Sociedad de Artículo Defecto"
+        }
+        ["MarcaArticulo"]=>
+        array(3) {
+          ["IdMarcaArticulo"]=>
+          int(7635)
+          ["Codigo"]=>
+          string(3) "181"
+          ["Nombre"]=>
+          string(6) "DISNEY"
+        }
+        ["Habilitado"]=>
+        bool(false)
+        ["ActivoWeb"]=>
+        bool(true)
+        ["ImprimeLista"]=>
+        bool(false)
+        ["Ranking"]=>
+        NULL
+        ["CategoriaImpuestoIVA"]=>
+        array(4) {
+          ["IdCategoriaImpuestoIVA"]=>
+          int(4)
+          ["Codigo"]=>
+          string(1) "5"
+          ["Nombre"]=>
+          string(9) "IVA 21.00"
+          ["Tasa"]=>
+          float(21)
+        }
+        ["PorcentajeDescuento"]=>
+        float(0)
+        ["CostoReposicion"]=>
+        float(32.51)
+        ["SegundoControlStock"]=>
+        float(0)
+        ["UnidadNivel1"]=>
+        float(1)
+        ["UnidadNivel2"]=>
+        float(1)
+        ["Masa"]=>
+        float(1)
+        ["MasaEspecifico"]=>
+        float(1)
+        ["Volumen"]=>
+        float(1)
+        ["Alto"]=>
+        float(1)
+        ["Largo"]=>
+        float(1)
+        ["Ancho"]=>
+        float(1)
+        ["EsPesable"]=>
+        bool(false)
+        ["InformaTropa"]=>
+        bool(false)
+        ["Comision"]=>
+        array(1) {
+          ["IdComision"]=>
+          int(6089)
+        }
+        ["ImpuestoInterno"]=>
+        float(0)
+        ["Precio"]=>
+        float(0)
+        ["PreciosPorCantidad"]=>
+        array(0) {
+        }
+        ["PorcentajeDescuentoMaximo"]=>
+        float(31)
+        ["PorcentajesDescuentoMaximoPorCantidad"]=>
+        NULL
+        ["FechaUltimaActualizacionPrecio"]=>
+        string(22) "2018-05-16T09:20:28.37"
+        ["PrecioAnterior"]=>
+        float(0)
+        ["DescuentoPromocion"]=>
+        float(0)
+        ["IdTipoDescuentoPromocion"]=>
+        float(0)
+        ["IdClaseDescuento"]=>
+        int(0)
+        ["ExistenciasSucursal"]=>
+        float(0)
+        ["ExistenciasTotal"]=>
+        float(0)
+        ["PoseePrecioPorCantidad"]=>
+        NULL
+        ["PoseePorcentajeDescuentoPromocion"]=>
+        NULL
+        ["PoseePorcentajeDescuentoPromocionPorUnidades"]=>
+        NULL
+        ["PoseePorcentajeDescuentoPromocionPorValores"]=>
+        NULL
+        ["TipoRelacionArticulo"]=>
+        NULL
+        ["Observaciones"]=>
+        string(0) ""
+        ["Detalle"]=>
+        string(0) ""
+        ["CumplePoliticaStock"]=>
+        NULL
+        ["CantidadArticulosGrupoArticulo"]=>
+        int(0)
+        ["CantidadImagenesArticulo"]=>
+        int(0)
+        ["CantidadPrecioSugerido"]=>
+        float(1)
+        ["NumeroDespacho"]=>
+        string(0) ""
+        ["GrupoArticulo"]=>
+        NULL
+        ["AtributosArticulo"]=>
+        array(0) {
+        }
+        ["DescuentosPorPromocionPorUnidades"]=>
+        array(0) {
+        }
+        ["DescuentosPorPromocionPorValor"]=>
+        array(0) {
+        }
+        ["Videos"]=>
+        array(0) {
+        }
+        ["PublicacionesTiendasOnline"]=>
+        array(0) {
+        }
+        ["Tags"]=>
+        array(0) {
+        }
+      }
+    }
+    ["CantidadTotalItems"]=>
+    int(38)
+    ["Pagina"]=>
+    array(2) {
+      ["Numero"]=>
+      int(1)
+      ["CantidadItems"]=>
+      int(1)
+    }
+  }
+  ["PrecioMinimo"]=>
+  float(0)
+  ["PrecioMaximo"]=>
+  float(3380)
+  ["RubrosCantidadItems"]=>
+  array(7) {
+    [0]=>
+    array(2) {
+      ["Rubro"]=>
+      array(3) {
+        ["IdRubro"]=>
+        int(1)
+        ["Codigo"]=>
+        string(2) "01"
+        ["Nombre"]=>
+        string(10) "COCHECITOS"
+      }
+      ["CantidadItems"]=>
+      int(1)
+    }
+    [1]=>
+    array(2) {
+      ["Rubro"]=>
+      array(3) {
+        ["IdRubro"]=>
+        int(5)
+        ["Codigo"]=>
+        string(2) "05"
+        ["Nombre"]=>
+        string(17) "BUTACAS PARA AUTO"
+      }
+      ["CantidadItems"]=>
+      int(2)
+    }
+    [2]=>
+    array(2) {
+      ["Rubro"]=>
+      array(3) {
+        ["IdRubro"]=>
+        int(14)
+        ["Codigo"]=>
+        string(2) "14"
+        ["Nombre"]=>
+        string(8) "JUGUETES"
+      }
+      ["CantidadItems"]=>
+      int(4)
+    }
+    [3]=>
+    array(2) {
+      ["Rubro"]=>
+      array(3) {
+        ["IdRubro"]=>
+        int(17)
+        ["Codigo"]=>
+        string(2) "17"
+        ["Nombre"]=>
+        string(14) "AJUAR DEL BEBE"
+      }
+      ["CantidadItems"]=>
+      int(21)
+    }
+    [4]=>
+    array(2) {
+      ["Rubro"]=>
+      array(3) {
+        ["IdRubro"]=>
+        int(18)
+        ["Codigo"]=>
+        string(2) "18"
+        ["Nombre"]=>
+        string(25) "BABEROS-BABETALES-BABITAS"
+      }
+      ["CantidadItems"]=>
+      int(2)
+    }
+    [5]=>
+    array(2) {
+      ["Rubro"]=>
+      array(3) {
+        ["IdRubro"]=>
+        int(19)
+        ["Codigo"]=>
+        string(2) "19"
+        ["Nombre"]=>
+        string(10) "ACCESORIOS"
+      }
+      ["CantidadItems"]=>
+      int(1)
+    }
+    [6]=>
+    array(2) {
+      ["Rubro"]=>
+      array(3) {
+        ["IdRubro"]=>
+        int(20)
+        ["Codigo"]=>
+        string(2) "20"
+        ["Nombre"]=>
+        string(12) "INDUMENTARIA"
+      }
+      ["CantidadItems"]=>
+      int(7)
+    }
+  }
+  ["SubRubrosCantidadItems"]=>
+  array(13) {
+    [0]=>
+    array(2) {
+      ["SubRubro"]=>
+      array(3) {
+        ["IdSubRubro"]=>
+        int(7)
+        ["Codigo"]=>
+        string(2) "07"
+        ["Nombre"]=>
+        string(19) "COCHES DE ALTA GAMA"
+      }
+      ["CantidadItems"]=>
+      int(1)
+    }
+    [1]=>
+    array(2) {
+      ["SubRubro"]=>
+      array(3) {
+        ["IdSubRubro"]=>
+        int(16)
+        ["Codigo"]=>
+        string(2) "02"
+        ["Nombre"]=>
+        string(6) "BUTACA"
+      }
+      ["CantidadItems"]=>
+      int(1)
+    }
+    [2]=>
+    array(2) {
+      ["SubRubro"]=>
+      array(3) {
+        ["IdSubRubro"]=>
+        int(18)
+        ["Codigo"]=>
+        string(2) "01"
+        ["Nombre"]=>
+        string(7) "BOOSTER"
+      }
+      ["CantidadItems"]=>
+      int(1)
+    }
+    [3]=>
+    array(2) {
+      ["SubRubro"]=>
+      array(3) {
+        ["IdSubRubro"]=>
+        int(36)
+        ["Codigo"]=>
+        string(2) "05"
+        ["Nombre"]=>
+        string(18) "JUGUETES DE VERANO"
+      }
+      ["CantidadItems"]=>
+      int(2)
+    }
+    [4]=>
+    array(2) {
+      ["SubRubro"]=>
+      array(3) {
+        ["IdSubRubro"]=>
+        int(41)
+        ["Codigo"]=>
+        string(2) "10"
+        ["Nombre"]=>
+        string(14) "OTROS JUGUETES"
+      }
+      ["CantidadItems"]=>
+      int(2)
+    }
+    [5]=>
+    array(2) {
+      ["SubRubro"]=>
+      array(3) {
+        ["IdSubRubro"]=>
+        int(59)
+        ["Codigo"]=>
+        string(2) "02"
+        ["Nombre"]=>
+        string(15) "MOISES DE VIAJE"
+      }
+      ["CantidadItems"]=>
+      int(1)
+    }
+    [6]=>
+    array(2) {
+      ["SubRubro"]=>
+      array(3) {
+        ["IdSubRubro"]=>
+        int(63)
+        ["Codigo"]=>
+        string(2) "06"
+        ["Nombre"]=>
+        string(7) "SABANAS"
+      }
+      ["CantidadItems"]=>
+      int(18)
+    }
+    [7]=>
+    array(2) {
+      ["SubRubro"]=>
+      array(3) {
+        ["IdSubRubro"]=>
+        int(64)
+        ["Codigo"]=>
+        string(2) "07"
+        ["Nombre"]=>
+        string(6) "BOLSOS"
+      }
+      ["CantidadItems"]=>
+      int(1)
+    }
+    [8]=>
+    array(2) {
+      ["SubRubro"]=>
+      array(3) {
+        ["IdSubRubro"]=>
+        int(66)
+        ["Codigo"]=>
+        string(2) "09"
+        ["Nombre"]=>
+        string(40) "TOALLAS, TOALLONES Y TOALLONES C/CAPUCHA"
+      }
+      ["CantidadItems"]=>
+      int(1)
+    }
+    [9]=>
+    array(2) {
+      ["SubRubro"]=>
+      array(3) {
+        ["IdSubRubro"]=>
+        int(68)
+        ["Codigo"]=>
+        string(2) "01"
+        ["Nombre"]=>
+        string(7) "BABEROS"
+      }
+      ["CantidadItems"]=>
+      int(1)
+    }
+    [10]=>
+    array(2) {
+      ["SubRubro"]=>
+      array(3) {
+        ["IdSubRubro"]=>
+        int(70)
+        ["Codigo"]=>
+        string(2) "03"
+        ["Nombre"]=>
+        string(7) "BABITAS"
+      }
+      ["CantidadItems"]=>
+      int(1)
+    }
+    [11]=>
+    array(2) {
+      ["SubRubro"]=>
+      array(3) {
+        ["IdSubRubro"]=>
+        int(77)
+        ["Codigo"]=>
+        string(2) "07"
+        ["Nombre"]=>
+        string(5) "OTROS"
+      }
+      ["CantidadItems"]=>
+      int(1)
+    }
+    [12]=>
+    array(2) {
+      ["SubRubro"]=>
+      array(3) {
+        ["IdSubRubro"]=>
+        int(78)
+        ["Codigo"]=>
+        string(2) "01"
+        ["Nombre"]=>
+        string(12) "INDUMENTARIA"
+      }
+      ["CantidadItems"]=>
+      int(7)
+    }
+  }
+  ["CategoriasArticuloCantidadItems"]=>
+  array(0) {
+  }
+  ["SociedadesArticuloCantidadItems"]=>
+  array(1) {
+    [0]=>
+    array(2) {
+      ["SociedadArticulo"]=>
+      array(3) {
+        ["IdSociedadArticulo"]=>
+        int(1)
+        ["Codigo"]=>
+        string(2) "01"
+        ["Nombre"]=>
+        string(29) "Sociedad de Artículo Defecto"
+      }
+      ["CantidadItems"]=>
+      int(38)
+    }
+  }
+  ["MarcasArticuloCantidadItems"]=>
+  array(8) {
+    [0]=>
+    array(2) {
+      ["MarcaArticulo"]=>
+      array(3) {
+        ["IdMarcaArticulo"]=>
+        int(6291)
+        ["Codigo"]=>
+        string(13) "Marca Defecto"
+        ["Nombre"]=>
+        string(13) "Marca Defecto"
+      }
+      ["CantidadItems"]=>
+      int(11)
+    }
+    [1]=>
+    array(2) {
+      ["MarcaArticulo"]=>
+      array(3) {
+        ["IdMarcaArticulo"]=>
+        int(7599)
+        ["Codigo"]=>
+        string(3) "313"
+        ["Nombre"]=>
+        string(13) "ANA GIAMMARIA"
+      }
+      ["CantidadItems"]=>
+      int(18)
+    }
+    [2]=>
+    array(2) {
+      ["MarcaArticulo"]=>
+      array(3) {
+        ["IdMarcaArticulo"]=>
+        int(7617)
+        ["Codigo"]=>
+        string(3) "150"
+        ["Nombre"]=>
+        string(7) "BESTWAY"
+      }
+      ["CantidadItems"]=>
+      int(2)
+    }
+    [3]=>
+    array(2) {
+      ["MarcaArticulo"]=>
+      array(3) {
+        ["IdMarcaArticulo"]=>
+        int(7630)
+        ["Codigo"]=>
+        string(3) "180"
+        ["Nombre"]=>
+        string(9) "CHIC CHAC"
+      }
+      ["CantidadItems"]=>
+      int(2)
+    }
+    [4]=>
+    array(2) {
+      ["MarcaArticulo"]=>
+      array(3) {
+        ["IdMarcaArticulo"]=>
+        int(7631)
+        ["Codigo"]=>
+        string(2) "14"
+        ["Nombre"]=>
+        string(6) "CHICCO"
+      }
+      ["CantidadItems"]=>
+      int(1)
+    }
+    [5]=>
+    array(2) {
+      ["MarcaArticulo"]=>
+      array(3) {
+        ["IdMarcaArticulo"]=>
+        int(7635)
+        ["Codigo"]=>
+        string(3) "181"
+        ["Nombre"]=>
+        string(6) "DISNEY"
+      }
+      ["CantidadItems"]=>
+      int(1)
+    }
+    [6]=>
+    array(2) {
+      ["MarcaArticulo"]=>
+      array(3) {
+        ["IdMarcaArticulo"]=>
+        int(7761)
+        ["Codigo"]=>
+        string(2) "17"
+        ["Nombre"]=>
+        string(6) "MI BES"
+      }
+      ["CantidadItems"]=>
+      int(1)
+    }
+    [7]=>
+    array(2) {
+      ["MarcaArticulo"]=>
+      array(3) {
+        ["IdMarcaArticulo"]=>
+        int(7770)
+        ["Codigo"]=>
+        string(3) "222"
+        ["Nombre"]=>
+        string(5) "NANIA"
+      }
+      ["CantidadItems"]=>
+      int(2)
+    }
+  }
+  ["AtributosArticuloCantidadItems"]=>
+  array(0) {
+  }
+}
+array(3) {
+  ["Items"]=>
+  array(0) {
+  }
+  ["CantidadTotalItems"]=>
+  int(0)
+  ["Pagina"]=>
+  NULL
+}
+
+Se actualiza producto sku: 00075031210000: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(28334132)
+  [1]=>
+  int(67220016)
+  [2]=>
+  float(242)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: 00075031110000: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(28334141)
+  [1]=>
+  int(67220051)
+  [2]=>
+  float(242)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: 00075035110000: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(28334245)
+  [1]=>
+  int(67220451)
+  [2]=>
+  float(242)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: 07079249410000: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(29093657)
+  [1]=>
+  int(69665856)
+  [2]=>
+  float(6201)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: 00061379100000: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(29102394)
+  [1]=>
+  int(69697558)
+  [2]=>
+  float(2580)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: 05079672020070: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(29102860)
+  [1]=>
+  int(69697886)
+  [2]=>
+  float(12480)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: 06079672000070: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(29102926)
+  [1]=>
+  int(69698431)
+  [2]=>
+  float(12480)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: 04079205230000: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(29103023)
+  [1]=>
+  int(69698805)
+  [2]=>
+  float(7880)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: 07079095510070: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(29103131)
+  [1]=>
+  int(69699165)
+  [2]=>
+  float(17800)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: 07079444410000: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(29103240)
+  [1]=>
+  int(69699431)
+  [2]=>
+  float(7936)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: 08079437510000: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(29103431)
+  [1]=>
+  int(69699854)
+  [2]=>
+  float(18780)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: 00060703100000: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(29104032)
+  [1]=>
+  int(69702334)
+  [2]=>
+  float(3980)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: 00060703000000: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(29104047)
+  [1]=>
+  int(69702353)
+  [2]=>
+  float(3980)
+  [3]=>
+  float(1)
+}
+
+Se actualiza producto sku: 08079554210000: (id, id_sku, result2, result3)
+array(4) {
+  [0]=>
+  int(29105919)
+  [1]=>
+  int(69706726)
+  [2]=>
+  float(6488)
+  [3]=>
+  float(1)
+}
+
+
