@@ -135,6 +135,8 @@ do {
     $page++;
 } while (!isset($response_tn["code"]));
 
+$text_mail .= "<br><b>----------------------------------------------------------------------------------------<br><br><br>FIN DEL PROCESO</b><br><br>";
+
 $to = "gastonmincoff@gmail.com";
 $subject = "Resultado Proceso ERP-TiendaNube";
 
